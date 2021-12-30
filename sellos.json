@@ -1,4 +1,5 @@
 {
+    "$schema": "sellos.schema.json",
     "epocas": [
         {
             "nombre": "Isabel II",
@@ -28,7 +29,10 @@
                                     "papel": "normal",
                                     "descripcion": "",
                                     "imagenes": [
-                                        {}
+                                        {
+                                            "url": "",
+                                            "base64": ""
+                                        }
                                     ],
                                     "variaciones": [
                                         {
@@ -36,7 +40,10 @@
                                             "descripcion": "",
                                             "tipo": "anomalía",
                                             "imagenes": [
-                                                {}
+                                                {
+                                                    "url": "",
+                                                    "base64": ""
+                                                }
                                             ]
                                         }
                                     ]
