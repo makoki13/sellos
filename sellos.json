@@ -1,5 +1,5 @@
 {
-    "$schema": "sellos.schema.json",
+    "schema": "sellos.schema.json",
     "epocas": [
         {
             "nombre": "Isabel II",
