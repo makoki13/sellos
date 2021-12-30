@@ -1,0 +1,51 @@
+{
+    "epocas": [
+        {
+            "nombre": "Isabel II",
+            "años": [
+                {
+                    "id": 1850,
+                    "series": [
+                        {
+                            "id": 1,
+                            "titulo": "Isabel II",
+                            "fecha de emision": "",
+                            "tipo de emision": "definitivo",
+                            "descripcion": "",
+                            "tipo": "básica",
+                            "valores": 5,
+                            "sellos": [
+                                {
+                                    "id": 1,
+                                    "motivo": "",
+                                    "facial": "",
+                                    "formato": "",
+                                    "color": "",
+                                    "dentado": "",
+                                    "grabador": "",
+                                    "impresion": "tipografia",
+                                    "imprenta": "",
+                                    "papel": "normal",
+                                    "descripcion": "",
+                                    "imagenes": [
+                                        {}
+                                    ],
+                                    "variaciones": [
+                                        {
+                                            "id": "a",
+                                            "descripcion": "",
+                                            "tipo": "anomalía",
+                                            "imagenes": [
+                                                {}
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
