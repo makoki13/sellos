@@ -1,0 +1,26 @@
+{
+    "schema": "sellos_plantilla.schema.json",
+    "epocas": [
+        {
+            "nombre": "Isabel II",
+            "años": [
+                {
+                    "id": 1850,
+                    "series": [
+                        "1850_1.json",
+                        "1850_2.json",
+                        "1850_3.json"
+                    ]
+                },
+                {
+                    "id": 1851,
+                    "series": [
+                        "1851_1.json",
+                        "1851_2.json",
+                        "1851_3.json"
+                    ]
+                }
+            ]
+        }
+    ]
+}
