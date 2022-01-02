@@ -19,20 +19,13 @@
     "imagenes": [
         {
             "url": "",
-            "base64": ""
+            "base64": "1850.1"
         }
     ],
     "variaciones": [
         {
             "id": "a",
-            "descripcion": "",
-            "tipo": "anomalía",
-            "imagenes": [
-                {
-                    "url": "",
-                    "base64": "1850.1"
-                }
-            ]
+            "sello": "S1A.json"            
         }
     ]    
 }

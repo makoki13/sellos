@@ -1,29 +1,29 @@
 {
     "schema": "../../items.schema.json",
-    "id": "3",
+    "id": "11",
     "motivo": "Isabel II",
-    "facial": "5 reales",
+    "facial": "10 reales",
     "formato": "19 x 23 mm",
-    "color": "rojo",
+    "color": "verde",
     "dentado": "sin dentar",
     "grabador": "Bartolomé Coromina",
     "impresion": ["Litografia"],
     "imprenta": "Fabrica Nacional del Sello",
     "papel": "normal",
-    "tirada": 47863,
-    "efectos por pliego": 180,
+    "tirada": 15898,
+    "efectos por pliego": 170,
     "tipo de correo": ["Correo ordinario"],
-    "fecha de emision": "01/01/1850",
-    "validez postal": "31/12/1850",
-    "descripcion": "Retrato de Isabel II (busto a la derecha) en marco cuadrado.",
+    "fecha de emision": "01/01/1851",
+    "validez postal": "31/12/1851",
+    "descripcion": "Retrato de Isabel II, (busto a la derecha) en óvalo de color oscuro rodeado de una pancarta ovalada con el texto CERTIFº DIEZ REALES CORREOS 1851",
     "imagenes": [
         {
             "url": "",
-            "base64": "1850.3"
+            "base64": "1851.11"
         }
     ],
     "variaciones": [
-        {          
+        {           
         }
     ]    
 }

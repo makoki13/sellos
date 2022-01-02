@@ -2,7 +2,7 @@
     "schema": "../series.schema.json",
     "id": 1,
     "titulo": "Isabel II",
-    "fecha de emision": "",
+    "fecha de emision": "1850",
     "tipo de emision": "definitivo",
     "descripcion": "",
     "tipo": "básica",
