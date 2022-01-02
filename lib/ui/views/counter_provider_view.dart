@@ -1,35 +1,41 @@
+import 'dart:js';
+
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+import 'package:sellos/providers/counter_provider.dart';
 import 'package:sellos/ui/shared/custom_app_menu.dart';
 import 'package:sellos/ui/shared/custom_flat_button.dart';
 
-
-class CounterPage extends StatefulWidget {
-  @override
-  State<CounterPage> createState() => _CounterPageState();
-}
-
-class _CounterPageState extends State<CounterPage> {
-
-  int counter = 10;
-
+class  CounterProviderView extends StatelessWidget {  
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: Column(
+    return ChangeNotifierProvider(
+      create: (_) => CounterProvider(),
+      child: _CounterProviderPage()
+    );
+  }
+}
+
+class _CounterProviderPage extends StatelessWidget {    
+  @override
+  Widget build(BuildContext context) {
+    final counterProvider = Provider.of<CounterProvider>(context);
+
+    return Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           //CustomAppMenu(),
 
           Spacer(),
 
-          Text('Contador Stateful', style: TextStyle(fontSize: 20),),
+          Text('Contador Provider', style: TextStyle(fontSize: 20),),
 
           FittedBox(
             fit: BoxFit.contain,
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 10),
               child: Text(
-                'Contador: $counter',
+                'Contador: ${counterProvider.counter}',
                 style: TextStyle( fontSize: 80, fontWeight: FontWeight.bold)
               ),
             ),
@@ -39,12 +45,12 @@ class _CounterPageState extends State<CounterPage> {
             children: [
               CustomFlatButton(
                 text: 'Incrementar', 
-                onPressed: () => setState(() => counter++ )
+                onPressed: () => counterProvider.increment(),
               ),
 
               CustomFlatButton(
                 text: 'Decrementar', 
-                onPressed: () => setState(() => counter-- )
+                onPressed: () => counterProvider.decrement()
               )
             ],
           ),
@@ -53,7 +59,6 @@ class _CounterPageState extends State<CounterPage> {
           
           
         ],        
-      ),
-    );
+      );
   }
 }

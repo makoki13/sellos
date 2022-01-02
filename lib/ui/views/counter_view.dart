@@ -3,19 +3,18 @@ import 'package:sellos/ui/shared/custom_app_menu.dart';
 import 'package:sellos/ui/shared/custom_flat_button.dart';
 
 
-class CounterPage extends StatefulWidget {
+class CounterView extends StatefulWidget {
   @override
-  State<CounterPage> createState() => _CounterPageState();
+  State<CounterView> createState() => _CounterViewState();
 }
 
-class _CounterPageState extends State<CounterPage> {
+class _CounterViewState extends State<CounterView> {
 
   int counter = 10;
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: Column(
+    return Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           //CustomAppMenu(),
@@ -53,7 +52,6 @@ class _CounterPageState extends State<CounterPage> {
           
           
         ],        
-      ),
-    );
+      );
   }
 }
