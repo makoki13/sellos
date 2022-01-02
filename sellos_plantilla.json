@@ -15,8 +15,151 @@
                     "series": [
                         "1851_1.json"
                     ]
+                },
+                {
+                    "id": 1852,
+                    "series": [
+                        "1852_1.json"
+                    ]
+                },
+                {
+                    "id": 1853,
+                    "series": [
+                        "1853_1.json",
+                        "1853_2.json"
+                    ]
+                },
+                {
+                    "id": 1854,
+                    "series": [
+                        "1854_1.json",
+                        "1854_2.json"
+                    ]
+                },
+                {
+                    "id": 1855,
+                    "series": [
+                        "1855_1.json",
+                        "1855_2.json"
+                    ]
+                },                
+                {
+                    "id": 1856,
+                    "series": [
+                        "1856_1.json"
+                    ]
+                },
+                {
+                    "id": 1859,
+                    "series": [
+                        "1859_1.json"
+                    ]
+                },                
+                {
+                    "id": 1860,
+                    "series": [
+                        "1860_1.json"
+                    ]
+                },                
+                {
+                    "id": 1862,
+                    "series": [
+                        "1862_1.json"
+                    ]
+                },                
+                {
+                    "id": 1864,
+                    "series": [
+                        "1864_1.json"
+                    ]
+                },                
+                {
+                    "id": 1865,
+                    "series": [
+                        "1865_1.json"
+                    ]
+                },                
+                {
+                    "id": 1866,
+                    "series": [
+                        "1866_1.json"
+                    ]
+                },                
+                {
+                    "id": 1867,
+                    "series": [
+                        "1867_1.json",
+                        "1867_2.json"
+                    ]
+                },                
+                {
+                    "id": 1868,
+                    "series": [
+                        "1868_1.json"
+                    ]
+                },                
+                {
+                    "id": 1869,
+                    "series": [
+                        "1869_1.json"
+                    ]
                 }
             ]
+        },
+        {
+            "nombre": "Regencia Duque de la Torre (Hispania)",
+            "años": [
+                {
+                    "id": 1870,
+                    "series": [
+                        "1870_1.json",
+                        "1870_2.json"
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Amadeo de Saboya",
+            "años": [
+                {
+                    "id": 1872,
+                    "series": [
+                        "1870_1.json",
+                        "1870_2.json",
+                        "1870_3.json",
+                        "1870_4.json",
+                        "1870_5.json"
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "I República"
+        },
+        {
+            "nombre": "Carlos VII"
+        },
+        {
+            "nombre": "Alfonso XII"
+        },
+        {
+            "nombre": "Alfonso XIII"
+        },
+        {
+            "nombre": "II República"
+        },
+        {
+            "nombre": "Estado Español"
+        },
+        {
+            "nombre": "II Centenario del sello español"
+        },
+        {
+            "nombre": "Juan Carlos I"
+        },
+        {
+            "nombre": "Felipe VI"
         }
+
     ]
 }
