@@ -23,16 +23,7 @@
         }
     ],
     "variaciones": [
-        {
-            "id": "a",
-            "descripcion": "",
-            "tipo": "anomalía",
-            "imagenes": [
-                {
-                    "url": "",
-                    "base64": "1850.1.2"
-                }
-            ]
+        {           
         }
     ]    
 }
