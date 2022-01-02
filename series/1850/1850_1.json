@@ -1,0 +1,13 @@
+{
+    "schema": "../series.schema.json",
+    "id": 1,
+    "titulo": "Isabel II",
+    "fecha de emision": "",
+    "tipo de emision": "definitivo",
+    "descripcion": "",
+    "tipo": "básica",
+    "valores": 5,
+    "sellos": [
+        "s1.json"        
+    ]
+}

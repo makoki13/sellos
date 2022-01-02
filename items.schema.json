@@ -1,0 +1,130 @@
+{
+    "id": "makoki.sellos.items.schema.json",
+    "title": "items",
+    "description": "Datos de los sellos de España",
+    "type": "object",
+    "properties":{        
+        "id": {
+            "description": "código catálogo",
+            "type": "integer",
+            "exclusiveMinimum": 0
+        },
+        "motivo": {
+            "description": "Motivo del sello",
+            "type": "string"
+        },
+        "facial": {
+            "description": "valor facial del sello",
+            "type": "integer",
+            "exclusiveMinimum": 0
+        },
+        "formato": {
+            "description": "",
+            "type": "string"
+        },
+        "color": {
+            "description": "",
+            "type": "string"
+        },
+        "dentado": {
+            "description": "",
+            "type": "string"
+        },
+        "grabador": {
+            "description": "",
+            "type": "string"
+        },
+        "impresion": {
+            "description": "Tipo de impresion [Litografía]",
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "minItems": 1,
+            "uniqueItems": true
+        },
+        "imprenta": {
+            "description": "",
+            "type": "string"
+        },
+        "papel": {
+            "description": "Tipo de papel [Normal]",
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "uniqueItems": true
+        },
+        "tirada": {
+            "description": "",
+            "type": "integer"
+        },
+        "efectos por pliego": {
+            "description": "",
+            "type": "integer"
+        },
+        "tipo de correo": {
+            "description": "[Correo ordinario]",
+            "items": {
+                "type": "string"
+            },
+            "minItems": 1,
+            "uniqueItems": true
+        },
+        "validez postal": {
+            "description": "",
+            "type": "string"
+        },
+        "descripcion": {
+            "description": "Descripción del sello",
+            "type": "string",
+            "exclusive": 0
+        },
+        "imagenes": {
+            "description": "Imágenes del sello",
+            "type": "array",
+            "items": {
+                "type": "object",
+                "items": {
+                    "url": {
+                        "description": "url de la imagen",
+                        "type": "string"
+                    },
+                    "base64": {
+                        "description": "base64 de la imagen",
+                        "type": "string"
+                    }
+                }
+            }
+        },
+        "variaciones": {
+            "description": "Variaciones del sello",
+            "type": "array",
+            "items": {
+                "type": "object",
+                "items": {
+                    "id": {
+                        "description": "id de la variacion según catálogo",
+                        "type": "string"
+                    },
+                    "descripcion": {
+                        "description": "Descripción del sello",
+                        "type": "string"
+                    },
+                    "tipo": {
+                        "description": "Tipo de variación [Anomalía, Error, Fantasía, Falsificación]",
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        },
+                        "uniqueItems": true
+                    },
+                    "motivo": {
+                        "base64": "base64 de la imagen",
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    }
+}

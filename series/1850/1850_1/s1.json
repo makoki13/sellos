@@ -1,0 +1,37 @@
+{
+    "schema": "../../items.schema.json",
+    "id": 1,
+    "motivo": "Isabel II",
+    "facial": "6 Cuartos",
+    "formato": "19 x 23 mm",
+    "color": "negro",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 6226727,
+    "efectos por pliego": 255,
+    "tipo de correo": ["Correo ordinario"],
+    "validez postal": "31/12/1850",
+    "descripcion": "",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": ""
+        }
+    ],
+    "variaciones": [
+        {
+            "id": "a",
+            "descripcion": "",
+            "tipo": "anomalía",
+            "imagenes": [
+                {
+                    "url": "",
+                    "base64": "1850.1.1"
+                }
+            ]
+        }
+    ]    
+}

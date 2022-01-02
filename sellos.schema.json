@@ -1,5 +1,5 @@
 {
-    "$id": "makoki.sellos.schema.json",
+    "id": "makoki.sellos.schema.json",
     "title": "sellos",
     "description": "Sellos de España",
     "type": "object",
