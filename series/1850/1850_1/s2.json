@@ -1,21 +1,21 @@
 {
     "schema": "../../items.schema.json",
-    "id": "1",
+    "id": "2",
     "motivo": "Isabel II",
-    "facial": "6 Cuartos",
+    "facial": "12 Cuartos",
     "formato": "19 x 23 mm",
-    "color": "negro",
+    "color": "lila",
     "dentado": "sin dentar",
     "grabador": "Bartolomé Coromina",
     "impresion": ["Litografia"],
     "imprenta": "Fabrica Nacional del Sello",
     "papel": "normal",
-    "tirada": 6226727,
+    "tirada": 51926,
     "efectos por pliego": 255,
     "tipo de correo": ["Correo ordinario"],
-    "fecha de emision": "01/01/1850",
+    "fecha de emision": "03/01/1850",
     "validez postal": "31/12/1850",
-    "descripcion": "Retrato de Isabel II (Busto hacia la Izquierda) en marco cuadrado. 'TO' separado en CUARTOS",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) en marco cuadrado.",
     "imagenes": [
         {
             "url": "",
@@ -30,7 +30,7 @@
             "imagenes": [
                 {
                     "url": "",
-                    "base64": "1850.1"
+                    "base64": "1850.1.2"
                 }
             ]
         }

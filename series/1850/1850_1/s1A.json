@@ -1,6 +1,6 @@
 {
     "schema": "../../items.schema.json",
-    "id": "1",
+    "id": "1A",
     "motivo": "Isabel II",
     "facial": "6 Cuartos",
     "formato": "19 x 23 mm",
@@ -15,7 +15,7 @@
     "tipo de correo": ["Correo ordinario"],
     "fecha de emision": "01/01/1850",
     "validez postal": "31/12/1850",
-    "descripcion": "Retrato de Isabel II (Busto hacia la Izquierda) en marco cuadrado. 'TO' separado en CUARTOS",
+    "descripcion": "Retrato de Isabel II (Busto hacia la Izquierda) en marco cuadrado. 'TO' en CUARTOS unido",
     "imagenes": [
         {
             "url": "",
@@ -30,7 +30,7 @@
             "imagenes": [
                 {
                     "url": "",
-                    "base64": "1850.1"
+                    "base64": "1850.1A"
                 }
             ]
         }

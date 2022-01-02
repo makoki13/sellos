@@ -8,6 +8,8 @@
     "tipo": "básica",
     "valores": 5,
     "sellos": [
-        "s1.json"        
+        "s1.json",
+        "s1A.json",
+        "s2.json"        
     ]
 }
