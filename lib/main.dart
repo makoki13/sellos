@@ -2,6 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:sellos/router/route_generator.dart';
+import 'package:sellos/router/router.dart';
 import 'package:sellos/services/navigation_service.dart';
 import 'package:sellos/ui/layout/main_layout_page.dart';
 
@@ -9,7 +10,7 @@ import 'locator.dart';
 
 void main() {
   setupLocator();
-
+  Flurorouter.configureRoutes();
   runApp(MyApp());
 }
 
@@ -19,8 +20,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Rutas App',
-      initialRoute: '/stateful',     
-      onGenerateRoute: RouteGenerator.generateRouter,
+      initialRoute: '/',     
+      //onGenerateRoute: RouteGenerator.generateRouter,
+      onGenerateRoute: Flurorouter.router.generator,
       navigatorKey: locator<NavigationService>().navigatorKey,
       builder: (_, child) {
         return MainLayoutPage(
