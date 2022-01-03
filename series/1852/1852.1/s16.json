@@ -1,0 +1,29 @@
+{
+    "schema": "../../items.schema.json",
+    "id": "16",
+    "motivo": "Isabel II",
+    "facial": "6 Reales",
+    "formato": "20 X 24 mm",
+    "color": "azul verde",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 21665,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1852",
+    "validez postal": "31/12/1852",
+    "descripcion": "Retrato de Isabel II, (Busto hacia la Izquierda) en un sencillo círculo de color oscuro. CORREOS con fecha abajo",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1852.16"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
