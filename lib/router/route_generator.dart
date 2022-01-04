@@ -18,10 +18,10 @@ class RouteGenerator {
     print(settings.name);
     switch( settings.name) {
       case '/stateful':
-        return _fadeRoute(CounterView(), '/stateful');
+        return _fadeRoute(CounterView(base: '5',), '/stateful');
 
       case '/provider':
-        return _fadeRoute(CounterProviderView(), '/provider');
+        return _fadeRoute(CounterProviderView(base: '5'), '/provider');
 
       default:
         return _fadeRoute(View404(), '/404');
