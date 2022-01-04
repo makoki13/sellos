@@ -1,0 +1,29 @@
+{
+    "schema": "../../items.schema.json",
+    "id": "22",
+    "motivo": "Escudo de Madrid",
+    "facial": "1 cuarto",
+    "formato": "20 X 24 mm",
+    "color": "bronce",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 250750,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo interior de Madrid"],
+    "fecha de emision": "01/01/1853",
+    "validez postal": "31/10/1854",
+    "descripcion": "Escudo con oso y árbol en círculo ornamentado con estrellas y rodeado de una corona de laurel. CORREO INTERIOR encima",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1853.22"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}

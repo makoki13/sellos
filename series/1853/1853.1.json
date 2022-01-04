@@ -1,0 +1,17 @@
+{
+    "schema": "../series.schema.json",
+    "id": 1,
+    "titulo": "Isabel II",
+    "fecha de emision": "1853",
+    "tipo de emision": "definitivo",
+    "descripcion": "",
+    "tipo": "básica",
+    "valores": 5,
+    "sellos": [
+        "s17.json",
+        "s18.json",
+        "s19.json",
+        "s20.json",
+        "s21.json"
+    ]
+}

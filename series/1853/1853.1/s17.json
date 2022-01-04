@@ -1,25 +1,25 @@
 {
     "schema": "../../items.schema.json",
-    "id": "12",
+    "id": "17",
     "motivo": "Isabel II",
     "facial": "6 Cuartos",
     "formato": "20 X 24 mm",
     "color": "rosa",
     "dentado": "sin dentar",
-    "grabador": "Bartolomé Coromina",
-    "impresion": ["Litografia"],
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
     "imprenta": "Fabrica Nacional del Sello",
     "papel": "normal",
-    "tirada": 11252886,
+    "tirada": 12768942,
     "efectos por pliego": 170,
     "tipo de correo": ["Correo ordinario"],
-    "fecha de emision": "01/01/1852",
-    "validez postal": "31/12/1852",
-    "descripcion": "Retrato de Isabel II, (Busto hacia la Izquierda) en un sencillo círculo de color oscuro. CORREOS con fecha abajo",
+    "fecha de emision": "01/01/1853",
+    "validez postal": "31/12/1853",
+    "descripcion": "Retrato de Isabel II, (busto a la derecha) en círculo de color oscuro con cuentas. Líneas para bordear (perfilar) y CORREOS con fecha arriba",
     "imagenes": [
         {
             "url": "",
-            "base64": "1852.12"
+            "base64": "1853.17"
         }
     ],
     "variaciones": [

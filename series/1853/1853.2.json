@@ -1,0 +1,14 @@
+{
+    "schema": "../series.schema.json",
+    "id": 2,
+    "titulo": "Escudo de Madrid",
+    "fecha de emision": "1853",
+    "tipo de emision": "definitivo",
+    "descripcion": "",
+    "tipo": "básica",
+    "valores": 2,
+    "sellos": [
+        "s22.json",
+        "s23.json"
+    ]
+}

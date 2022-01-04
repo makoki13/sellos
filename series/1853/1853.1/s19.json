@@ -1,0 +1,29 @@
+{
+    "schema": "../../items.schema.json",
+    "id": "19",
+    "motivo": "Isabel II",
+    "facial": "2 Reales",
+    "formato": "20 X 24 mm",
+    "color": "bermellón",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 3875,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1853",
+    "validez postal": "31/12/1853",
+    "descripcion": "Retrato de Isabel II, (busto a la derecha) en círculo de color oscuro con cuentas. Líneas para bordear (perfilar) y CORREOS con fecha arriba",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1853.20"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
