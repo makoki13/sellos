@@ -1,0 +1,29 @@
+{
+    "schema": "../../items.schema.json",
+    "id": "24",
+    "motivo": "Escudo de España",
+    "facial": "6 cuartos",
+    "formato": "20 X 24 mm",
+    "color": "carmin",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 13930,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1854",
+    "validez postal": "31/10/1854 : 31/03/1855",
+    "descripcion": "Corona y escudo de armas en pergamino suelto en forma de U, con hojas enrolladas en las esquinas. Fondo Coloreado. CORREOS y fecha arriba.",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1854.24"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}

@@ -1,0 +1,16 @@
+{
+    "schema": "../series.schema.json",
+    "id": 2,
+    "titulo": "Escudo de España",
+    "fecha de emision": "1854",
+    "tipo de emision": "definitivo",
+    "descripcion": "",
+    "tipo": "básica",
+    "valores": 4,
+    "sellos": [
+        "s28.json",
+        "s29.json",
+        "s30.json",
+        "s31.json"
+    ]
+}
