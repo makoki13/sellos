@@ -1,0 +1,29 @@
+{
+    "schema": "../../items.schema.json",
+    "id": "36",
+    "motivo": "Escudo de España",
+    "facial": "1 onza",
+    "formato": "20 X 24 mm",
+    "color": "negro s/ rosa",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "",
+    "tirada": 30767500,
+    "efectos por pliego": 0,
+    "tipo de correo": ["Servicio oficial"],
+    "fecha de emision": "01/01/1855",
+    "validez postal": "31/07/1866",
+    "descripcion": "Escudo de armas ovalado con corona, rodeado por enlaces (CORREO OFICIAL MEDIA ONZA)",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1855.36"
+        }
+    ],
+    "variaciones": [
+        {  
+        }
+    ]    
+}

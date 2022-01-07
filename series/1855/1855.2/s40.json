@@ -1,0 +1,30 @@
+{
+    "schema": "../../items.schema.json",
+    "id": "40",
+    "motivo": "Isabel II",
+    "facial": "4 cuartos",
+    "formato": "20 X 24 mm",
+    "color": "rojo",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Azulado con filigrana lazos",
+    "tirada": 168093486,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/04/1855",
+    "validez postal": "15/02/1860",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) ajustado a la parte superior del círculo de cuentas de color más oscuro, CORREOS en la barra en la parte superior",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1855.40"
+        }
+    ],
+    "variaciones": [
+        {  
+            "sello": "S40A.json"
+        }
+    ]    
+}
