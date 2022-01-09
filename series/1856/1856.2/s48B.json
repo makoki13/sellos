@@ -1,0 +1,29 @@
+{
+    "schema": "../../items.schema.json",
+    "id": "48B",
+    "motivo": "Isabel II",
+    "facial": "4 cuartos",
+    "formato": "20 X 24 mm",
+    "color": "carmin",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Blanco",
+    "tirada": 168093486,
+    "efectos por pliego": "100 / 170 / 200",
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "11/04/1856",
+    "validez postal": "15/02/1860",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) ajustado a la parte superior del círculo de cuentas de color más oscuro, CORREOS en la barra en la parte superior. Tipo III. Tiene la línea exterior derecha rota en la parte superior, debajo del cartucho. También tiene cuatro puntos blancos, dos a cada lado, entre el círculo que rodea la efigie y el marco exterior.",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1856.48B"
+        }
+    ],
+    "variaciones": [
+        {  
+        }
+    ]    
+}

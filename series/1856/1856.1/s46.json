@@ -1,0 +1,29 @@
+{
+    "schema": "../../items.schema.json",
+    "id": "46",
+    "motivo": "Isabel II",
+    "facial": "2 reales",
+    "formato": "20 X 24 mm",
+    "color": "violeta",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Blanco con filigrana líneas cruzadas",
+    "tirada": 2101075,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1856",
+    "validez postal": "15/02/1860",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) ajustado a la parte superior del círculo de cuentas de color más oscuro, CORREOS en la barra en la parte superior. ¡ATENCIÓN: MARCA DE AGUA: LÍNEAS CRUZADAS",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1856.46"
+        }
+    ],
+    "variaciones": [
+        {  
+        }
+    ]    
+}

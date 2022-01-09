@@ -23,8 +23,6 @@
         }
     ],
     "variaciones": [
-        {            
-            "sello": "S1A.json"
-        }
+        "S1A.json"        
     ]    
 }
