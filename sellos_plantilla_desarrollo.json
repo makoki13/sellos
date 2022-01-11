@@ -1,0 +1,90 @@
+{
+    "schema": "sellos_plantilla.schema.json",
+    "epocas": [
+        {
+            "nombre": "Isabel II",
+            "años": [
+                {
+                    "id": 1850,
+                    "series": [
+                        "1850.1.json"
+                    ]
+                },
+                {
+                    "id": 1851,
+                    "series": [
+                        "1851.1.json"
+                    ]
+                },
+                {
+                    "id": 1852,
+                    "series": [
+                        "1852.1.json"
+                    ]
+                },
+                {
+                    "id": 1853,
+                    "series": [
+                        "1853.1.json",
+                        "1853.2.json"
+                    ]
+                },
+                {
+                    "id": 1854,
+                    "series": [
+                        "1854.1.json",
+                        "1854.2.json",
+                        "1854.3.json"
+                    ]
+                },
+                {
+                    "id": 1855,
+                    "series": [
+                        "1855.1.json",
+                        "1855.2.json"
+                    ]
+                },
+                {
+                    "id": 1856,
+                    "series": [
+                        "1856.1.json",
+                        "1856.2.json"
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Regencia Duque de la Torre (Hispania)"
+        },
+        {
+            "nombre": "Amadeo de Saboya"
+        },
+        {
+            "nombre": "I República"
+        },
+        {
+            "nombre": "Carlos VII"
+        },
+        {
+            "nombre": "Alfonso XII"
+        },
+        {
+            "nombre": "Alfonso XIII"
+        },
+        {
+            "nombre": "II República"
+        },
+        {
+            "nombre": "Estado Español"
+        },
+        {
+            "nombre": "II Centenario del sello español"
+        },
+        {
+            "nombre": "Juan Carlos I"
+        },
+        {
+            "nombre": "Felipe VI"
+        }
+    ]
+}

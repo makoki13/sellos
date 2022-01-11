@@ -16,12 +16,184 @@
     "tipo": "básica",
     "valores": 5,
     "sellos": [
-        "s1.json",
-        "s1A.json",
-        "s2.json",
-        "s3.json",
-        "s4.json",
-        "s5.json"        
+{
+    "schema": "../../items.schema.json",
+    "id": "1",
+    "motivo": "Isabel II",
+    "facial": "6 Cuartos",
+    "formato": "19 x 23 mm",
+    "color": "negro",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 6226727,
+    "efectos por pliego": 255,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1850",
+    "validez postal": "31/12/1850",
+    "descripcion": "Retrato de Isabel II (Busto hacia la Izquierda) en marco cuadrado. 'TO' separado en CUARTOS",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1850.1"
+        }
+    ],
+    "variaciones": [
+        "S1A.json"        
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "1A",
+    "motivo": "Isabel II",
+    "facial": "6 Cuartos",
+    "formato": "19 x 23 mm",
+    "color": "negro",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 6226727,
+    "efectos por pliego": 255,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1850",
+    "validez postal": "31/12/1850",
+    "descripcion": "Retrato de Isabel II (Busto hacia la Izquierda) en marco cuadrado. 'TO' en CUARTOS unido",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1850.1A"
+        }
+    ],
+    "variaciones": [
+        {
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "2",
+    "motivo": "Isabel II",
+    "facial": "12 Cuartos",
+    "formato": "19 x 23 mm",
+    "color": "lila",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 51926,
+    "efectos por pliego": 255,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "03/01/1850",
+    "validez postal": "31/12/1850",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) en marco cuadrado.",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1850.2"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "3",
+    "motivo": "Isabel II",
+    "facial": "5 reales",
+    "formato": "19 x 23 mm",
+    "color": "rojo",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 47863,
+    "efectos por pliego": 180,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1850",
+    "validez postal": "31/12/1850",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) en marco cuadrado.",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1850.3"
+        }
+    ],
+    "variaciones": [
+        {          
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "4",
+    "motivo": "Isabel II",
+    "facial": "6 Reales",
+    "formato": "19 x 23 mm",
+    "color": "azul",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 13026,
+    "efectos por pliego": 150,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1850",
+    "validez postal": "31/12/1850",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) en marco cuadrado.",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1850.4"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "5",
+    "motivo": "Isabel II",
+    "facial": "10 reales",
+    "formato": "19 x 23 mm",
+    "color": "verde",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 8443,
+    "efectos por pliego": 180,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1850",
+    "validez postal": "31/12/1850",
+    "descripcion": "Retrato de Isabel II (Busto hacia la Izquierda) en marco cuadrado. 'TO' separado en CUARTOS",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1850.5"
+        }
+    ],
+    "variaciones": [
+        {
+        }
+    ]    
+}
     ]
 }
                     ]
@@ -39,12 +211,185 @@
     "tipo": "básica",
     "valores": 6,
     "sellos": [
-        "s6.json",
-        "s7.json",
-        "s8.json",
-        "s9.json",
-        "s10.json",
-        "s11.json"        
+{
+    "schema": "../../items.schema.json",
+    "id": "6",
+    "motivo": "Isabel II",
+    "facial": "6 Cuartos",
+    "formato": "19 x 23 mm",
+    "color": "negro",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 8785483,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1851",
+    "validez postal": "31/12/1851",
+    "descripcion": "Retrato de Isabel II, (busto a la derecha) en óvalo de color oscuro dentro de estandarte ovalado con texto FRANCO SEIS CUARTOS CORREOS 1851",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1851.6"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "7",
+    "motivo": "Isabel II",
+    "facial": "12 Cuartos",
+    "formato": "19 x 23 mm",
+    "color": "lila",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 82003,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1851",
+    "validez postal": "31/12/1851",
+    "descripcion": "Retrato de Isabel II, (busto a la derecha) en óvalo de color oscuro dentro de estandarte ovalado con texto FRANCO DOCE CUARTOS CORREOS 1851",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1851.7"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "8",
+    "motivo": "Isabel II",
+    "facial": "2 reales",
+    "formato": "19 x 23 mm",
+    "color": "rojo naranja",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 1432,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1851",
+    "validez postal": "31/12/1851",
+    "descripcion": "Retrato de Isabel II, (busto a la derecha) en óvalo de color oscuro dentro de estandarte ovalado con texto FRANCO DOCE CUARTOS CORREOS 1851",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1851.8"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "9",
+    "motivo": "Isabel II",
+    "facial": "5 reales",
+    "formato": "19 x 23 mm",
+    "color": "rosa",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 42323,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1851",
+    "validez postal": "31/12/1851",
+    "descripcion": "Retrato de Isabel II, (busto a la derecha) en óvalo de color oscuro rodeado de una pancarta ovalada con el texto CERTIFº CINCO REALES CORREOS 1851",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1851.9"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "10",
+    "motivo": "Isabel II",
+    "facial": "6 reales",
+    "formato": "19 x 23 mm",
+    "color": "azul",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 10860,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1851",
+    "validez postal": "31/12/1851",
+    "descripcion": "Retrato de Isabel II, (busto a la derecha) en óvalo de color oscuro rodeado de una pancarta ovalada con el texto CERTIFº SEIS REALES CORREOS 1851",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1851.10"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "11",
+    "motivo": "Isabel II",
+    "facial": "10 reales",
+    "formato": "19 x 23 mm",
+    "color": "verde",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 15898,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1851",
+    "validez postal": "31/12/1851",
+    "descripcion": "Retrato de Isabel II, (busto a la derecha) en óvalo de color oscuro rodeado de una pancarta ovalada con el texto CERTIFº DIEZ REALES CORREOS 1851",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1851.11"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
     ]
 }
                     ]
@@ -62,11 +407,155 @@
     "tipo": "básica",
     "valores": 5,
     "sellos": [
-        "s12.json",
-        "s13.json",
-        "s14.json",
-        "s15.json",
-        "s16.json"
+{
+    "schema": "../../items.schema.json",
+    "id": "12",
+    "motivo": "Isabel II",
+    "facial": "6 Cuartos",
+    "formato": "20 X 24 mm",
+    "color": "rosa",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 11252886,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1852",
+    "validez postal": "31/12/1852",
+    "descripcion": "Retrato de Isabel II, (Busto hacia la Izquierda) en un sencillo círculo de color oscuro. CORREOS con fecha abajo",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1852.12"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "13",
+    "motivo": "Isabel II",
+    "facial": "12 Cuartos",
+    "formato": "20 X 24 mm",
+    "color": "lila",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 145014,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1852",
+    "validez postal": "31/12/1852",
+    "descripcion": "Retrato de Isabel II, (Busto hacia la Izquierda) en un sencillo círculo de color oscuro. CORREOS con fecha abajo",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1852.13"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "14",
+    "motivo": "Isabel II",
+    "facial": "2 Reales",
+    "formato": "20 X 24 mm",
+    "color": "naranja pálido",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 3394,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1852",
+    "validez postal": "31/12/1852",
+    "descripcion": "Retrato de Isabel II, (Busto hacia la Izquierda) en un sencillo círculo de color oscuro. CORREOS con fecha abajo",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1852.14"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "15",
+    "motivo": "Isabel II",
+    "facial": "5 Reales",
+    "formato": "20 X 24 mm",
+    "color": "verde suave",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 79484,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1852",
+    "validez postal": "31/12/1852",
+    "descripcion": "Retrato de Isabel II, (Busto hacia la Izquierda) en un sencillo círculo de color oscuro. CORREOS con fecha abajo",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1852.15"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "16",
+    "motivo": "Isabel II",
+    "facial": "6 Reales",
+    "formato": "20 X 24 mm",
+    "color": "azul verde",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Litografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 21665,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1852",
+    "validez postal": "31/12/1852",
+    "descripcion": "Retrato de Isabel II, (Busto hacia la Izquierda) en un sencillo círculo de color oscuro. CORREOS con fecha abajo",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1852.16"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
     ]
 }
                     ]
@@ -84,11 +573,155 @@
     "tipo": "básica",
     "valores": 5,
     "sellos": [
-        "s17.json",
-        "s18.json",
-        "s19.json",
-        "s20.json",
-        "s21.json"
+{
+    "schema": "../../items.schema.json",
+    "id": "17",
+    "motivo": "Isabel II",
+    "facial": "6 Cuartos",
+    "formato": "20 X 24 mm",
+    "color": "rosa",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 12768942,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1853",
+    "validez postal": "31/12/1853",
+    "descripcion": "Retrato de Isabel II, (busto a la derecha) en círculo de color oscuro con cuentas. Líneas para bordear (perfilar) y CORREOS con fecha arriba",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1853.17"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "17",
+    "motivo": "Isabel II",
+    "facial": "12 Cuartos",
+    "formato": "20 X 24 mm",
+    "color": "violeta",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 151799,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1853",
+    "validez postal": "31/12/1853",
+    "descripcion": "Retrato de Isabel II, (busto a la derecha) en círculo de color oscuro con cuentas. Líneas para bordear (perfilar) y CORREOS con fecha arriba",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1853.18"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "19",
+    "motivo": "Isabel II",
+    "facial": "2 Reales",
+    "formato": "20 X 24 mm",
+    "color": "bermellón",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 3875,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1853",
+    "validez postal": "31/12/1853",
+    "descripcion": "Retrato de Isabel II, (busto a la derecha) en círculo de color oscuro con cuentas. Líneas para bordear (perfilar) y CORREOS con fecha arriba",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1853.20"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "20",
+    "motivo": "Isabel II",
+    "facial": "5 Reales",
+    "formato": "20 X 24 mm",
+    "color": "verde suave",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 67553,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1853",
+    "validez postal": "31/12/1853",
+    "descripcion": "Retrato de Isabel II, (busto a la derecha) en círculo de color oscuro con cuentas. Líneas para bordear (perfilar) y CORREOS con fecha arriba",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1853.20"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "21",
+    "motivo": "Isabel II",
+    "facial": "6 Reales",
+    "formato": "20 X 24 mm",
+    "color": "azul",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 13900,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1853",
+    "validez postal": "31/12/1853",
+    "descripcion": "Retrato de Isabel II, (busto a la derecha) en círculo de color oscuro con cuentas. Líneas para bordear (perfilar) y CORREOS con fecha arriba",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1853.21"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
     ]
 }
 ,
@@ -102,8 +735,65 @@
     "tipo": "básica",
     "valores": 2,
     "sellos": [
-        "s22.json",
-        "s23.json"
+{
+    "schema": "../../items.schema.json",
+    "id": "22",
+    "motivo": "Escudo de Madrid",
+    "facial": "1 cuarto",
+    "formato": "20 X 24 mm",
+    "color": "bronce",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 250750,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo interior de Madrid"],
+    "fecha de emision": "01/01/1853",
+    "validez postal": "31/10/1854",
+    "descripcion": "Escudo con oso y árbol en círculo ornamentado con estrellas y rodeado de una corona de laurel. CORREO INTERIOR encima",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1853.22"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "22",
+    "motivo": "Escudo de Madrid",
+    "facial": "3 cuartos",
+    "formato": "20 X 24 mm",
+    "color": "bronce",
+    "dentado": "sin dentar",
+    "grabador": "Bartolomé Coromina",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 35020,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo interior de Madrid"],
+    "fecha de emision": "01/01/1853",
+    "validez postal": "14/10/1853",
+    "descripcion": "Escudo con oso y árbol en círculo ornamentado con estrellas y rodeado de una corona de laurel. CORREO INTERIOR encima",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1853.23"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
     ]
 }
                     ]
@@ -121,10 +811,125 @@
     "tipo": "básica",
     "valores": 4,
     "sellos": [
-        "s24.json",
-        "s25.json",
-        "s26.json",
-        "s27.json"
+{
+    "schema": "../../items.schema.json",
+    "id": "24",
+    "motivo": "Escudo de España",
+    "facial": "6 cuartos",
+    "formato": "20 X 24 mm",
+    "color": "carmin",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 13930,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1854",
+    "validez postal": "31/10/1854 : 31/03/1855",
+    "descripcion": "Corona y escudo de armas en pergamino suelto en forma de U, con hojas enrolladas en las esquinas. Fondo Coloreado. CORREOS y fecha arriba.",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1854.24"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "25",
+    "motivo": "Escudo de España",
+    "facial": "2 reales",
+    "formato": "20 X 24 mm",
+    "color": "rojo",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 78210,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1854",
+    "validez postal": "31/03/1855",
+    "descripcion": "Corona y escudo de armas en pergamino suelto en forma de U, con hojas enrolladas en las esquinas. Fondo Coloreado. CORREOS y fecha arriba.",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1854.25"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "26",
+    "motivo": "Escudo de España",
+    "facial": "5 reales",
+    "formato": "20 X 24 mm",
+    "color": "verde",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 54827,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1854",
+    "validez postal": "31/10/1854 : 31/03/1855",
+    "descripcion": "Corona y escudo de armas en pergamino suelto en forma de U, con hojas enrolladas en las esquinas. Fondo Coloreado. CORREOS y fecha arriba.",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1854.26"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "27",
+    "motivo": "Escudo de España",
+    "facial": "6 reales",
+    "formato": "20 X 24 mm",
+    "color": "azul",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 15394,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1854",
+    "validez postal": "31/10/1854 : 31/03/1855",
+    "descripcion": "Corona y escudo de armas en pergamino suelto en forma de U, con hojas enrolladas en las esquinas. Fondo Coloreado. CORREOS y fecha arriba.",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1854.27"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
     ]
 }
 ,
@@ -138,10 +943,125 @@
     "tipo": "básica",
     "valores": 4,
     "sellos": [
-        "s28.json",
-        "s29.json",
-        "s30.json",
-        "s31.json"
+{
+    "schema": "../../items.schema.json",
+    "id": "28",
+    "motivo": "Escudo de España",
+    "facial": "1/2 onza",
+    "formato": "20 X 24 mm",
+    "color": "negro s/ amarillo",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 678000,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Servicio oficial"],
+    "fecha de emision": "01/07/1854",
+    "validez postal": "01/07/1854 : 31/12/1854",
+    "descripcion": "Corona y escudo de armas en pergamino con forma de U, con CORREOS y la fecha por encima",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1854.28"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "29",
+    "motivo": "Escudo de España",
+    "facial": "1 onza",
+    "formato": "20 X 24 mm",
+    "color": "negro s/ rosa",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 339111,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Servicio oficial"],
+    "fecha de emision": "01/07/1854",
+    "validez postal": "01/07/1854 : 31/12/1854",
+    "descripcion": "Corona y escudo de armas en pergamino con forma de U, con CORREOS y la fecha por encima",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1854.29"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "30",
+    "motivo": "Escudo de España",
+    "facial": "4 onzas",
+    "formato": "20 X 24 mm",
+    "color": "negro s/ verde",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 218100,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Servicio oficial"],
+    "fecha de emision": "01/07/1854",
+    "validez postal": "01/07/1854 : 31/12/1854",
+    "descripcion": "Corona y escudo de armas en pergamino con forma de U, con CORREOS y la fecha por encima",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1854.30"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "31",
+    "motivo": "Escudo de España",
+    "facial": "1 libra",
+    "formato": "20 X 24 mm",
+    "color": "negro s/ azul",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "normal",
+    "tirada": 117000,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Servicio oficial"],
+    "fecha de emision": "01/07/1854",
+    "validez postal": "01/07/1854 : 31/12/1854",
+    "descripcion": "Corona y escudo de armas en pergamino con forma de U, con CORREOS y la fecha por encima",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1854.32"
+        }
+    ],
+    "variaciones": [
+        {           
+        }
+    ]    
+}
     ]
 }
 ,
@@ -155,9 +1075,98 @@
     "tipo": "básica",
     "valores": 3,
     "sellos": [
-        "s32.json",
-        "s33.json",
-        "s34.json"
+{
+    "schema": "../../items.schema.json",
+    "id": "32",
+    "motivo": "Escudo de España",
+    "facial": "2 cuartos",
+    "formato": "20 X 24 mm",
+    "color": "verde",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Delgado",
+    "tirada": 104889,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/11/1854",
+    "validez postal": "31/03/1855",
+    "descripcion": "Corona y escudo de armas en forma de U ajustada, con adornos en cada esquina. Fondo Blanco. CORREOS y fecha arriba. Papel fino",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1854.32"
+        }
+    ],
+    "variaciones": [
+        {  
+            "sello": "S32A.json"         
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "33",
+    "motivo": "Escudo de España",
+    "facial": "4 cuartos",
+    "formato": "20 X 24 mm",
+    "color": "carmin",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Delgado",
+    "tirada": 8230,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/11/1854",
+    "validez postal": "31/03/1855",
+    "descripcion": "Corona y escudo de armas en forma de U ajustada, con adornos en cada esquina. Fondo Blanco. CORREOS y fecha arriba. Papel fino",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1854.33"
+        }
+    ],
+    "variaciones": [
+        {  
+            "sello": "S33A.json"         
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "34",
+    "motivo": "Escudo de España",
+    "facial": "1 real",
+    "formato": "20 X 24 mm",
+    "color": "azul oscuro",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Delgado",
+    "tirada": 55083,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/11/1854",
+    "validez postal": "31/03/1855",
+    "descripcion": "Corona y escudo de armas en forma de U ajustada, con adornos en cada esquina. Fondo Blanco. CORREOS y fecha arriba. Papel fino",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1854.34"
+        }
+    ],
+    "variaciones": [
+        {  
+            "sello": "S34A.json"         
+        }
+    ]    
+}
     ]
 }
                     ]
@@ -175,10 +1184,126 @@
     "tipo": "básica",
     "valores": 4,
     "sellos": [
-        "s35.json",
-        "s36.json",
-        "s37.json",
-        "s38.json"
+{
+    "schema": "../../items.schema.json",
+    "id": "35",
+    "motivo": "Escudo de España",
+    "facial": "1/2 onza",
+    "formato": "20 X 24 mm",
+    "color": "negro s/ amarillo",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "",
+    "tirada": 39890600,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Servicio oficial"],
+    "fecha de emision": "01/01/1855",
+    "validez postal": "31/07/1866",
+    "descripcion": "Escudo de armas ovalado con corona, rodeado por enlaces (CORREO OFICIAL MEDIA ONZA)",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1855.35"
+        }
+    ],
+    "variaciones": [
+        {  
+            "sello": "S35A.json"         
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "36",
+    "motivo": "Escudo de España",
+    "facial": "1 onza",
+    "formato": "20 X 24 mm",
+    "color": "negro s/ rosa",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "",
+    "tirada": 30767500,
+    "efectos por pliego": 0,
+    "tipo de correo": ["Servicio oficial"],
+    "fecha de emision": "01/01/1855",
+    "validez postal": "31/07/1866",
+    "descripcion": "Escudo de armas ovalado con corona, rodeado por enlaces (CORREO OFICIAL MEDIA ONZA)",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1855.36"
+        }
+    ],
+    "variaciones": [
+        {  
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "37",
+    "motivo": "Escudo de España",
+    "facial": "4 onzas",
+    "formato": "20 X 24 mm",
+    "color": "negro s/ verde",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "",
+    "tirada": 10853500,
+    "efectos por pliego": 0,
+    "tipo de correo": ["Servicio oficial"],
+    "fecha de emision": "01/01/1855",
+    "validez postal": "31/07/1866",
+    "descripcion": "Escudo de armas ovalado con corona, rodeado por enlaces (CORREO OFICIAL MEDIA ONZA)",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1855.37"
+        }
+    ],
+    "variaciones": [
+        {  
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "38",
+    "motivo": "Escudo de España",
+    "facial": "1 libra",
+    "formato": "20 X 24 mm",
+    "color": "negro s/ azul",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "",
+    "tirada": 6740200,
+    "efectos por pliego": 0,
+    "tipo de correo": ["Servicio oficial"],
+    "fecha de emision": "01/01/1855",
+    "validez postal": "31/07/1866",
+    "descripcion": "Escudo de armas ovalado con corona, rodeado por enlaces (CORREO OFICIAL MEDIA ONZA)",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1855.38"
+        }
+    ],
+    "variaciones": [
+        {  
+        }
+    ]    
+}
     ]
 }
 ,
@@ -192,14 +1317,130 @@
     "tipo": "básica",
     "valores": 4,
     "sellos": [
-        "s39.json",
-        "s40.json",
-        "s41.json",
-        "s42.json"
+{
+    "schema": "../../items.schema.json",
+    "id": "39",
+    "motivo": "Isabel II",
+    "facial": "2 cuartos",
+    "formato": "20 X 24 mm",
+    "color": "verde",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Azulado con filigrana lazos",
+    "tirada": 3764823,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/04/1855",
+    "validez postal": "15/02/1860",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) ajustado a la parte superior del círculo de cuentas de color más oscuro, CORREOS en la barra en la parte superior",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1855.39"
+        }
+    ],
+    "variaciones": [
+        {  
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "40",
+    "motivo": "Isabel II",
+    "facial": "4 cuartos",
+    "formato": "20 X 24 mm",
+    "color": "rojo",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Azulado con filigrana lazos",
+    "tirada": 168093486,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/04/1855",
+    "validez postal": "15/02/1860",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) ajustado a la parte superior del círculo de cuentas de color más oscuro, CORREOS en la barra en la parte superior",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1855.40"
+        }
+    ],
+    "variaciones": [
+        {  
+            "sello": "S40A.json"
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "41",
+    "motivo": "Isabel II",
+    "facial": "4 cuartos",
+    "formato": "20 X 24 mm",
+    "color": "azul verdoso",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Azulado con filigrana lazos",
+    "tirada": 2418754,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/04/1855",
+    "validez postal": "15/02/1860",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) ajustado a la parte superior del círculo de cuentas de color más oscuro, CORREOS en la barra en la parte superior",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1855.41"
+        }
+    ],
+    "variaciones": [
+        {  
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "42",
+    "motivo": "Isabel II",
+    "facial": "2 reales",
+    "formato": "20 X 24 mm",
+    "color": "violeta marrón",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Azulado con filigrana lazos",
+    "tirada": 2101075,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/04/1855",
+    "validez postal": "15/02/1860",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) ajustado a la parte superior del círculo de cuentas de color más oscuro, CORREOS en la barra en la parte superior",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1855.42"
+        }
+    ],
+    "variaciones": [
+        {  
+        }
+    ]    
+}
     ]
 }
                     ]
-                },                
+                },
                 {
                     "id": 1856,
                     "series": [
@@ -213,86 +1454,262 @@
     "tipo": "básica",
     "valores": 4,
     "sellos": [
-        "s43.json",
-        "s44.json",
-        "s45.json",
-        "s46.json"
+{
+    "schema": "../../items.schema.json",
+    "id": "43",
+    "motivo": "Isabel II",
+    "facial": "2 cuartos",
+    "formato": "20 X 24 mm",
+    "color": "verde",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Blanco con filigrana líneas cruzadas",
+    "tirada": 3764823,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1856",
+    "validez postal": "15/02/1860",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) ajustado a la parte superior del círculo de cuentas de color más oscuro, CORREOS en la barra en la parte superior",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1856.43"
+        }
+    ],
+    "variaciones": [
+        {  
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "44",
+    "motivo": "Isabel II",
+    "facial": "4 cuartos",
+    "formato": "20 X 24 mm",
+    "color": "rojo",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Blanco con filigrana líneas cruzadas",
+    "tirada": 168093486,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1856",
+    "validez postal": "15/02/1860",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) ajustado a la parte superior del círculo de cuentas de color más oscuro, CORREOS en la barra en la parte superior. ¡ATENCIÓN: MARCA DE AGUA: LÍNEAS CRUZADAS",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1856.44"
+        }
+    ],
+    "variaciones": [
+        {  
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "45",
+    "motivo": "Isabel II",
+    "facial": "1 real",
+    "formato": "20 X 24 mm",
+    "color": "azul verdoso",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Blanco con filigrana líneas cruzadas",
+    "tirada": 2418754,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1856",
+    "validez postal": "15/02/1860",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) ajustado a la parte superior del círculo de cuentas de color más oscuro, CORREOS en la barra en la parte superior. ¡ATENCIÓN: MARCA DE AGUA: LÍNEAS CRUZADAS",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1856.45"
+        }
+    ],
+    "variaciones": [
+        {  
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "46",
+    "motivo": "Isabel II",
+    "facial": "2 reales",
+    "formato": "20 X 24 mm",
+    "color": "violeta",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Blanco con filigrana líneas cruzadas",
+    "tirada": 2101075,
+    "efectos por pliego": 170,
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "01/01/1856",
+    "validez postal": "15/02/1860",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) ajustado a la parte superior del círculo de cuentas de color más oscuro, CORREOS en la barra en la parte superior. ¡ATENCIÓN: MARCA DE AGUA: LÍNEAS CRUZADAS",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1856.46"
+        }
+    ],
+    "variaciones": [
+        {  
+        }
+    ]    
+}
+    ]
+}
+,
+{
+    "schema": "../series.schema.json",
+    "id": 1,
+    "titulo": "Isabel II",
+    "fecha de emision": "1856",
+    "tipo de emision": "definitivo",
+    "descripcion": "",
+    "tipo": "básica",
+    "valores": 4,
+    "sellos": [
+{
+    "schema": "../../items.schema.json",
+    "id": "47",
+    "motivo": "Isabel II",
+    "facial": "2 cuartos",
+    "formato": "20 X 24 mm",
+    "color": "verde",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Blanco",
+    "tirada": 3764823,
+    "efectos por pliego": "100 / 170 / 200",
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "11/04/1856",
+    "validez postal": "15/02/1860",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) ajustado a la parte superior del círculo de cuentas de color más oscuro, CORREOS en la barra en la parte superior.",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1856.47"
+        }
+    ],
+    "variaciones": [
+        {  
+        }
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "48",
+    "motivo": "Isabel II",
+    "facial": "4 cuartos",
+    "formato": "20 X 24 mm",
+    "color": "carmin",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Blanco",
+    "tirada": 168093486,
+    "efectos por pliego": "100 / 170 / 200",
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "11/04/1856",
+    "validez postal": "15/02/1860",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) ajustado a la parte superior del círculo de cuentas de color más oscuro, CORREOS en la barra en la parte superior. ¡ATENCIÓN: SIN MARCA DE AGUA: Tipo I",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1856.48"
+        }
+    ],
+    "variaciones": [
+        "s48A.json",
+        "s48B.json"
+    ]    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "49",
+    "motivo": "Isabel II",
+    "facial": "1 real",
+    "formato": "20 X 24 mm",
+    "color": "azul",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Blanco",
+    "tirada": 2418754,
+    "efectos por pliego": "100 / 170 / 200",
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "11/04/1856",
+    "validez postal": "15/02/1860",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) ajustado a la parte superior del círculo de cuentas de color más oscuro, CORREOS en la barra en la parte superior",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1856.49"
+        }
+    ],
+    "variaciones": []    
+}
+,
+{
+    "schema": "../../items.schema.json",
+    "id": "50",
+    "motivo": "Isabel II",
+    "facial": "2 reales",
+    "formato": "20 X 24 mm",
+    "color": "violeta",
+    "dentado": "sin dentar",
+    "grabador": "José Pérez Varela",
+    "impresion": ["Tipografia"],
+    "imprenta": "Fabrica Nacional del Sello",
+    "papel": "Blanco",
+    "tirada": 2101075,
+    "efectos por pliego": "100 / 170 / 200",
+    "tipo de correo": ["Correo ordinario"],
+    "fecha de emision": "11/04/1856",
+    "validez postal": "15/02/1860",
+    "descripcion": "Retrato de Isabel II (busto a la derecha) ajustado a la parte superior del círculo de cuentas de color más oscuro, CORREOS en la barra en la parte superior",
+    "imagenes": [
+        {
+            "url": "",
+            "base64": "1856.50"
+        }
+    ],
+    "variaciones": []    
+}
     ]
 }
                     ]
-                },
-                {
-                    "id": 1859,
-                    "series": [
-                    ]
-                },                
-                {
-                    "id": 1860,
-                    "series": [
-                    ]
-                },                
-                {
-                    "id": 1862,
-                    "series": [
-                    ]
-                },                
-                {
-                    "id": 1864,
-                    "series": [
-                    ]
-                },                
-                {
-                    "id": 1865,
-                    "series": [
-                    ]
-                },                
-                {
-                    "id": 1866,
-                    "series": [
-                    ]
-                },                
-                {
-                    "id": 1867,
-                    "series": [
-,
-                    ]
-                },                
-                {
-                    "id": 1868,
-                    "series": [
-                    ]
-                },                
-                {
-                    "id": 1869,
-                    "series": [
-                    ]
                 }
             ]
         },
         {
-            "nombre": "Regencia Duque de la Torre (Hispania)",
-            "años": [
-                {
-                    "id": 1870,
-                    "series": [
-,
-                    ]
-                }
-            ]
+            "nombre": "Regencia Duque de la Torre (Hispania)"
         },
         {
-            "nombre": "Amadeo de Saboya",
-            "años": [
-                {
-                    "id": 1872,
-                    "series": [
-,
-,
-,
-,
-                    ]
-                }
-            ]
+            "nombre": "Amadeo de Saboya"
         },
         {
             "nombre": "I República"
@@ -321,6 +1738,5 @@
         {
             "nombre": "Felipe VI"
         }
-
     ]
 }
